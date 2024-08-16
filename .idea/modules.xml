@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/FirstProjectSpringBackend_third_lesson_ioc_and_dependency_injection.iml" filepath="$PROJECT_DIR$/.idea/FirstProjectSpringBackend_third_lesson_ioc_and_dependency_injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstProjectSpringBackend-third-lesson-ioc-and-dependency-injection/firstprojectspring.iml" filepath="$PROJECT_DIR$/FirstProjectSpringBackend-third-lesson-ioc-and-dependency-injection/firstprojectspring.iml" />
+    </modules>
+  </component>
+</project>
